@@ -1,13 +1,24 @@
-# Review Sentiment AI
+# Review & Sentiment AI
 
-Zion AI App Network (Batch 99 — Retail & E-commerce AI). Review sentiment intelligence: theme extraction, rating-driver analysis and review-response drafting for retail and e-commerce.
+Mine product reviews, ratings and support chatter for product defects, CX insights and roadmap signals.
 
-- Live app: https://ziontechgroup.com/review-sentiment-ai/
-- Free AI Discovery (always online, always free): https://ziontechgroup.com/discovery/
-- Apps Network map: https://ziontechgroup.com/apps/network.html
-- All free apps: https://ziontechgroup.com/apps/
-- Batch 99 spotlight: https://ziontechgroup.com/apps/october-2026-batch99-retail.html
-- Related: https://ziontechgroup.com/visual-merchandising-ai/ · https://ziontechgroup.com/dynamic-pricing-retail-ai/ · https://ziontechgroup.com/returns-reduction-ai/
-- Commercial: commercial@ziontechgroup.com
+Part of the **Zion AI App Network** — Batch 127 · Retail & E-commerce AI.
 
-Part of the Zion Tech Group free AI App Network — 870+ free, interlinked AI apps.
+## Live & links
+- 🌐 Live app: https://ziontechgroup.com/review-sentiment-ai/
+- 🧭 Network hub: https://ziontechgroup.com/zion-app-network/
+- ✨ Free AI Discovery: https://ziontechgroup.com/discovery/ (always online, always free; results emailed instantly to you AND commercial@ziontechgroup.com)
+- 🔗 Interlinks: see [ZION_APP_NETWORK.md](ZION_APP_NETWORK.md)
+
+## Features
+- ✅ Aspect-based sentiment per feature
+- ✅ Defect early-warning alerts
+- ✅ Review-response drafting
+- ✅ Trend dashboards by SKU/category
+
+## Get started
+1. Open the [live app](https://ziontechgroup.com/review-sentiment-ai/) — free, no signup.
+2. Not sure this is your #1 priority? Run the [free Discovery](https://ziontechgroup.com/discovery/) and get a tailored shortlist.
+3. Want it deployed in your stack? Email commercial@ziontechgroup.com.
+
+© 2026 Zion Tech Group · Middletown, DE
